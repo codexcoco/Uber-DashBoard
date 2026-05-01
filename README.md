@@ -60,4 +60,5 @@ Improve operational efficiency
 
 Feel free to connect for feedback, collaboration, or opportunities.
 
-Demo- https://github.com/codexcoco/Uber-DashBoard/blob/main/DashBoard%20Screenshots/Overview%20Page.png
+Demo- ![Alt text](https://github.com/codexcoco/Uber-DashBoard/blob/main/DashBoard%20Screenshots/Overview%20Page.png)
+![Dashboard Preview](https://github.com/codexcoco/Uber-DashBoard/blob/main/DashBoard%20Screenshots/Overview%20Page.png)
